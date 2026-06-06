@@ -2,8 +2,7 @@
 
 A self-hosted budgeting app for two-person households, inspired by YNAB and Mint. Runs on a VPS behind nginx/Caddy. Zero recurring fees beyond your server cost.
 
-> **Hey Sabrina** 👋 — I hope this works for you. Hope.
-
+> **Hey Sabrina** 👋 — I hope this works for you.
 ---
 
 ## What it does
